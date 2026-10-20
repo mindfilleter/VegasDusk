@@ -1,4 +1,4 @@
-#!/usr/env bin bash
+#!/bin/bash
 # Locate the active Flatpak Firefox profile directory
 FF_PROFILE=$(find ~/.var/app/org.mozilla.firefox/.mozilla/firefox -maxdepth 1 -type d -name "*.default-release" | head -n 1)
 

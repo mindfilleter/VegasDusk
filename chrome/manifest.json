@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "Vegas Dusk",
+  "version": "1.0",
+  "description": "Solid dark theme based on the Vegas Dusk palette.",
+  "theme": {
+    "colors": {
+      "frame": [16, 8, 18],
+      "frame_inactive": [23, 13, 27],
+      "frame_incognito": [16, 8, 18],
+      "frame_incognito_inactive": [23, 13, 27],
+      "toolbar": [36, 25, 48],
+      "toolbar_text": [202, 194, 182],
+      "toolbar_button_icon": [163, 153, 138],
+      "tab_text": [202, 194, 182],
+      "tab_background_text": [163, 153, 138],
+      "tab_background_text_inactive": [125, 96, 88],
+      "tab_background_text_incognito": [163, 153, 138],
+      "tab_background_text_incognito_inactive": [125, 96, 88],
+      "bookmark_text": [202, 194, 182],
+      "omnibox_background": [23, 13, 27],
+      "omnibox_text": [202, 194, 182],
+      "ntp_background": [16, 8, 18],
+      "ntp_header": [36, 25, 48],
+      "ntp_text": [202, 194, 182],
+      "ntp_link": [214, 175, 75],
+      "button_background": [39, 35, 74]
+    },
+    "tints": {
+      "buttons": [0.10, 0.13, 0.60],
+      "frame": [-1, -1, -1],
+      "frame_inactive": [-1, -1, -1],
+      "frame_incognito": [-1, -1, -1],
+      "frame_incognito_inactive": [-1, -1, -1],
+      "background_tab": [-1, -1, -1]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom"
+    }
+  }
+}

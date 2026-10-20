@@ -1,0 +1,14 @@
+@-moz-document url("about:newtab"), url("about:home"), url("about:blank") {
+  :root {
+    --newtab-background-color: #100812 !important;
+    --newtab-background-color-secondary: #241930 !important;
+    --newtab-text-primary-color: #CAC2B6 !important;
+    --newtab-text-secondary-color: #A3998A !important;
+    --newtab-primary-action-background: #D6AF4B !important;
+  }
+
+  body {
+    background-color: #100812 !important;
+    color: #CAC2B6 !important;
+  }
+}
